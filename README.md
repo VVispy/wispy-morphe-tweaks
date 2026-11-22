@@ -1,18 +1,20 @@
-# 👋🧩 Morphe Patches template
+# Wispy Tweaks
 
-Template repository for Morphe Patches.
+Wispy's patches for use with Morphe.
 
 ## ❓ About
 
-Patches for apps I like.
+Standalone patches that can be applied on their own or alongside other patch bundles.
 
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+- **Instagram: Whitelist followed accounts.** Long-press the Home tab to pick followed accounts
+  whose home feed posts and stories are the only ones shown (whitelist) or are hidden (blacklist).
+  Derived from [Piko](https://github.com/crimera/piko), see [NOTICE](NOTICE).
 
 ### How to use these patches
 
-Click the button below, or manually add this repo url to Morphe Manager: https://github.com/xyz-user/xyz-patches
+Click the button below, or manually add this repo url to Morphe Manager: https://github.com/VVispy/wispy-morphe-tweaks
 
-<a href="https://morphe.software/add-source?github=xyz-user/xyz-patches">
+<a href="https://morphe.software/add-source?github=VVispy/wispy-morphe-tweaks">
   <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
 </a>
 
@@ -101,4 +103,4 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+Wispy Tweaks are licensed under the [GNU General Public License v3.0](LICENSE)

@@ -19,3 +19,19 @@ provided that such references:
 - Are accurate, factual, and non-misleading;
 - Do not suggest authorship by the Morphe project; and
 - Appear only in a secondary or descriptive context, not as part of the product or project name.
+
+
+Piko NOTICE
+===========
+
+The Instagram "Whitelist followed accounts" patch in this repository is derived
+from Piko (https://github.com/crimera/piko), licensed under GPLv3 with the
+following additional term. Files derived from Piko keep its copyright header.
+
+https://github.com/crimera/piko
+
+7b. Attribution Requirement
+---------------------------
+
+This NOTICE file must be preserved and retained in all distributions
+of the Source Code and any Derivative Works.

@@ -1,4 +1,4 @@
-rootProject.name = "morphe-patches-template"
+rootProject.name = "wispy-morphe-tweaks"
 
 pluginManagement {
     repositories {
@@ -18,4 +18,14 @@ pluginManagement {
 
 plugins {
     id("app.morphe.patches") version "2.1.1"
+}
+
+settings {
+    extensions {
+        defaultNamespace = "app.wispy.extension"
+
+        // Must resolve to an absolute path (not relative),
+        // otherwise the extensions in subfolders will fail to find the proguard config.
+        proguardFiles(rootProject.projectDir.resolve("extensions/proguard-rules.pro").toString())
+    }
 }
