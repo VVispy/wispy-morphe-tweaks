@@ -1,7 +1,7 @@
 {
-  "created_at": "",
-  "description": "",
-  "download_url": "",
+  "created_at": "2026-11-22T13:25:24",
+  "description": "## 1.0.0 (2026-11-22)\n\n### ✨ New Features\n\n* **Instagram:** Add `Whitelist followed accounts` patch ([ef12065](https://github.com/VVispy/wispy-morphe-tweaks/commit/ef120652b87d17dbf6db9fe907d8722e74f9331f))",
+  "download_url": "https://github.com/VVispy/wispy-morphe-tweaks/releases/download/v1.0.0/patches-1.0.0.mpp",
   "signature_download_url": "",
-  "version": ""
+  "version": "1.0.0"
 }
